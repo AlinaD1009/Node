@@ -1,0 +1,20 @@
+{
+  "name": "cli-utils-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "projectAuthor": "Alina Dirkach",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "dayjs": "^1.11.13"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
