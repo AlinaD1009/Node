@@ -1,0 +1,4 @@
+INFO Server started
+ERROR Failed to load module
+INFO Processing request
+ERROR Something went wrong
